@@ -58,4 +58,4 @@ if (outOption == "2")
     balance += inBalance;
     Console.WriteLine($"İşlem başarılı Yeni bakiyeniz {balance}");
 }
-
+//to be countinued...
